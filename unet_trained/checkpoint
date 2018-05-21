@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Magnus\\Documents\\GitHub\\DD2424\\tf_unet\\unet_trained\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Magnus\\Documents\\GitHub\\DD2424\\tf_unet\\unet_trained\\model.ckpt"
